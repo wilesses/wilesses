@@ -1,55 +1,36 @@
 # Hi, I'm Shokhrukh 👋
 
-I'm transitioning into **Data Analytics** after several years of experience in **Quality, Operations, and process improvement**.
+I'm a data analyst with a background in **Quality, Operations, and process improvement**. I turn operational data into reliable reporting, practical analysis, and tools that reduce manual work.
 
-My background includes:
-- building and automating operational reporting;
-- improving QA workflows and reducing manual work;
-- working with large volumes of structured and semi-structured data;
-- supporting process quality, investigations, and decision-making.
-
-I'm currently developing my skills in:
-
-- **SQL**
-- **Python**
-- **Data analysis & statistics**
-- **Data cleaning and validation**
-- **SQLite**
-- **Excel**
-- **Data visualization**
-
-## Current project
+## Featured projects
 
 ### [Receipt Intelligence](https://github.com/wilesses/receipt-intelligence)
 
-A Python + SQLite analytics project that turns semi-structured retail receipt data into normalized, analysis-ready data.
+A local-first Python, Flask, and SQLite application for transforming semi-structured retail receipts into analysis-ready data. It combines OCR parsing, product normalization, category logic, unit-price evidence, interactive analytics, and explicit data-quality review.
 
-It includes:
-- receipt parsing and normalization;
-- product identity and category logic;
-- unit-price and price-quality analysis;
-- SQL analytics;
-- data-quality validation;
-- synthetic demo data;
-- automated tests.
+### [Employee Attrition Analytics](https://github.com/wilesses/employee-attrition-analytics)
 
-## Currently learning
+My **Google Advanced Data Analytics capstone project**: exploratory HR analysis and interpretable classification models for employee attrition. The project covers data validation, EDA, feature engineering, model tuning, evaluation, and responsible business recommendations.
 
-I'm completing the **Google Advanced Data Analytics Professional Certificate** and building practical projects alongside it.
+## Learning and certificates
 
-## What I'm looking for
+- 🎓 Completed the **Google Advanced Data Analytics Professional Certificate**
+- 📊 Currently studying the **Microsoft Power BI Data Analyst Professional Certificate**
 
-I'm interested in opportunities in:
+## Skills
 
-- Junior Data Analyst
-- Data Analyst
-- Business Analyst
-- Operations Analyst
-- Fintech / Product Analytics
+`Python` · `SQL` · `Power BI` · `Excel` · `pandas` · `scikit-learn` · `SQLite` · `Flask` · `Git`
 
-## Tech
+## Background
 
-`Python` · `SQL` · `SQLite` · `Flask` · `Excel` · `Git` · `GitHub`
+- building and automating operational reporting;
+- improving QA workflows and reducing manual work;
+- working with structured and semi-structured data;
+- supporting investigations and data-informed decisions.
+
+## Open to
+
+Data Analyst · Junior Data Analyst · Business Analyst · Operations Analyst · Product Analytics
 
 ---
 
